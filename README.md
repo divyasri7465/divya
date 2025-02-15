@@ -1,4 +1,4 @@
-![logo]https://github.com/divyasri7465/divya/blob/main/git%20hub.webp
+![logo](https://github.com/divyasri7465/divya/blob/main/git%20hub.webp)
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate about Data Science</h3>
 
