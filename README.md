@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate about Data Science</h3>
 
-<img align="right" alt="coding"width="400"src="https://www.google.com/imgres?q=coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F17707%2Fscreenshots%2F2413754%2Frrr.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&docid=6Kp7B6D2qp-YxM&tbnid=qxKp-qMrimMqoM&vet=12ahUKEwj9y9eAnb6LAxUWe2wGHRyyHUwQM3oECEMQAA..i&w=400&h=300&hcb=2&ved=2ahUKEwj9y9eAnb6LAxUWe2wGHRyyHUwQM3oECEMQAA"
+<img align="right" alt="coding"width="400"src=("https://www.google.com/imgres?q=coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F17707%2Fscreenshots%2F2413754%2Frrr.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&docid=6Kp7B6D2qp-YxM&tbnid=qxKp-qMrimMqoM&vet=12ahUKEwj9y9eAnb6LAxUWe2wGHRyyHUwQM3oECEMQAA..i&w=400&h=300&hcb=2&ved=2ahUKEwj9y9eAnb6LAxUWe2wGHRyyHUwQM3oECEMQAA")
 - 🔭 I’m currently working on **AWS cloud practitioner**
 
 - 🌱 I’m currently learning **AWS cp,Fullstack development**
